@@ -1,3 +1,4 @@
+?*
 import './product.css';
 const Item = (props) => {
     return (
@@ -12,6 +13,6 @@ const Item = (props) => {
         </div>
     )
 }
-
+ Not Used Code*/
 
 export default Item
