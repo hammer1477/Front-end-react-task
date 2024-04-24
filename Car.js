@@ -1,4 +1,4 @@
-?*
+/*
 import './product.css';
 const Item = (props) => {
     return (
